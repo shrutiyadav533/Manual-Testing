@@ -34,3 +34,23 @@ The seven principles of testing
 ![image](https://github.com/shrutiyadav533/Manual-Testing/assets/64632028/41a99679-4a03-4ae4-a389-b763af1336d8)
 
 ![image](https://github.com/shrutiyadav533/Manual-Testing/assets/64632028/4f164636-d2e0-4a88-bef3-8d85a71961ec)
+
+**Test Plan contains:**
+1. Introduction
+   1.1 Scope
+    a) In Scope
+    b) Out of Scope
+   1.2 Quality Objective
+   1.3 Roles and Responsibilities
+3. Test Metodology
+   2.1 Overview
+   2.2 Test Levels
+ 2.3 Bug Triage
+ 2.4 Suspension Criteria and Resumption Requirements
+ 2.5 Test Completeness
+4. Test Deliverables
+5. Resource & Environment Needs
+ 4.1 Testing Tools
+ 4.2 Test Environment
+
+

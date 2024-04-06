@@ -15,3 +15,4 @@ The seven principles of testing
 **DEFECT LIFE CYCLE**
 ![image](https://github.com/shrutiyadav533/Manual-Testing/assets/64632028/41a99679-4a03-4ae4-a389-b763af1336d8)
 
+![image](https://github.com/shrutiyadav533/Manual-Testing/assets/64632028/4f164636-d2e0-4a88-bef3-8d85a71961ec)

@@ -9,3 +9,5 @@ The seven principles of testing
 5. Beware of the pesticide paradox.
 6. Testing is context dependent.
 7. Absence-of-errors is a fallacy.
+
+![image](https://github.com/shrutiyadav533/Manual-Testing/assets/64632028/623efde8-8e73-48d0-be59-71004c246e86)

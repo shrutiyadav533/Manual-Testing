@@ -11,5 +11,7 @@ The seven principles of testing
 7. Absence-of-errors is a fallacy.
 
 ![image](https://github.com/shrutiyadav533/Manual-Testing/assets/64632028/623efde8-8e73-48d0-be59-71004c246e86)
+
+**DEFECT LIFE CYCLE**
 ![image](https://github.com/shrutiyadav533/Manual-Testing/assets/64632028/41a99679-4a03-4ae4-a389-b763af1336d8)
 

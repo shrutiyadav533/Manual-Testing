@@ -53,4 +53,4 @@ The seven principles of testing
  4.1 Testing Tools
  4.2 Test Environment
 
-
+![image](https://github.com/shrutiyadav533/Manual-Testing/assets/64632028/98ffe1c3-e6fb-4e0e-808d-c868cc7589dc)
